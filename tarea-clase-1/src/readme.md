@@ -1,0 +1,1 @@
+- El proyecto se fue creando en base a la tarea de la clase 1. 
